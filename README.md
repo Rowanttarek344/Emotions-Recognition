@@ -1,6 +1,10 @@
 # Facial Emotion Recognition with Convolutional Neural Networks
 
-This repository contains code for building a Convolutional Neural Network (CNN) model to recognize facial emotions using the FER2013 dataset. The model is trained to classify facial expressions into one of the following emotions: Anger, Contempt, Disgust, Fear, Happy, Neutral, Sad, and Surprised.
+This repository contains code for building a Convolutional Neural Network (CNN) model to recognize facial emotions. The model is trained to classify facial expressions into one of the following emotions: Anger, Contempt, Disgust, Fear, Happy, Neutral, Sad, and Surprised.
+
+## Dataset
+
+The dataset used for training and testing the model. It consists of grayscale images of facial expressions categorized into different emotions. The dataset can be found [here](https://www.kaggle.com/datasets/tapakah68/facial-emotion-recognition).
 
 ## Requirements
 
